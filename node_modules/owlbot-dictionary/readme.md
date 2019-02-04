@@ -1,0 +1,17 @@
+Wrapper for owlbot dictionary api.
+
+Usage:
+
+import { define } from 'owlbot-dictionary'
+
+define('owl');
+    => [
+        {
+            "type": "noun",
+            "defenition": "a nocturnal bird of prey with large eyes, a facial disc, a hooked beak, and typically a loud hooting call.",
+            "example": "I love reaching out into that absolute silence, when you can hear the owl or the wind."
+        }
+    ]
+
+define('notaword');
+    => []

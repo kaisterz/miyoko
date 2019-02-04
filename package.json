@@ -1,0 +1,20 @@
+{
+  "name": "new-ch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aioi",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^11.4.2",
+    "moment": "^2.24.0",
+    "node.js": "0.0.0",
+    "owlbot-dictionary": "^1.0.1",
+    "quick.db": "^7.0.0-b21",
+    "random": "^2.0.13"
+  }
+}
